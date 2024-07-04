@@ -1,0 +1,34 @@
+- title: String fuctions
+  file: /stringFunctions
+- title: Table Type
+  file: /TableType
+- title: Unique Functions
+  file: /uniqueFunctions
+- title: Frontend
+  file: /Frontend
+- title: Merge Into
+  file: /MergeInto
+- title: Convert
+  file: /Convert
+- title: caching
+  file: /cache
+- title: uniqueCommands
+  file: /UniqueCommands
+- title: WorkingWithJson
+  file: /WorkingWithJson
+- title: Cursor
+  file: /Cursor
+- title: tblVsjson
+  file: /tblVsjson
+- title: GetDuplicateRows
+  file: /GetDuplicateRows
+- title: visualStudioTemplate
+  file: /visualStudioTemplate
+- title: sqldependencyinjection
+  file: /sqldependencyinjection
+- title: DatabaseService
+  file: /DatabaseService
+- title: ReplacePlaceholdersInTemplate
+  file: /ReplacePlaceholdersInTemplate
+- title: WorkingWithNumbers
+  file: /WorkingWithNumbers
