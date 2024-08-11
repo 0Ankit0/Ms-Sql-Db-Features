@@ -24,8 +24,6 @@
   file: /GetDuplicateRows
 - title: visualStudioTemplate
   file: /visualStudioTemplate
-- title: sqldependencyinjection
-  file: /sqldependencyinjection
 - title: DatabaseService
   file: /DatabaseService
 - title: ReplacePlaceholdersInTemplate
