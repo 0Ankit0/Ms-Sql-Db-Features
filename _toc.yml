@@ -42,3 +42,5 @@
   file: /Service_Broker
 - title: Datatable
   file: /Datatable
+- title: GeoSpatialCalculation
+  file: /GeoSpatialCalculation
