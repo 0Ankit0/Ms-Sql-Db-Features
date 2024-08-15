@@ -44,3 +44,5 @@
   file: /Datatable
 - title: GeoSpatialCalculation
   file: /GeoSpatialCalculation
+- title: viewModel
+  file: /viewModel
