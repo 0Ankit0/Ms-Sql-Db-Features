@@ -48,3 +48,5 @@
   file: /viewModel
 - title: AsymmetricKey
   file: /AsymmetricKey
+- title: 2FA(asp.net core)
+  file: /2FA
