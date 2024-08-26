@@ -50,3 +50,5 @@
   file: /AsymmetricKey
 - title: 2FA(asp.net core)
   file: /2FA
+- title: DbSchema
+  file: /DbSchema
