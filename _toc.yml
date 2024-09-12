@@ -56,3 +56,5 @@
   file: /EntityFramework
 - title: UnitTest
   file: /UnitTest
+- title: setOperators
+  file: /setOperators
