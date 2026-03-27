@@ -1,60 +1,46 @@
-- title: String fuctions
-  file: /stringFunctions
-- title: Table Type
-  file: /TableType
-- title: Unique Functions
-  file: /uniqueFunctions
-- title: Frontend
-  file: /Frontend
-- title: Merge Into
-  file: /MergeInto
-- title: Convert
-  file: /Convert
-- title: caching
-  file: /cache
-- title: uniqueCommands
-  file: /UniqueCommands
-- title: WorkingWithJson
-  file: /WorkingWithJson
-- title: Cursor
-  file: /Cursor
-- title: tblVsjson
-  file: /tblVsjson
-- title: GetDuplicateRows
-  file: /GetDuplicateRows
-- title: visualStudioTemplate
-  file: /visualStudioTemplate
-- title: DatabaseService
-  file: /DatabaseService
-- title: ReplacePlaceholdersInTemplate
-  file: /ReplacePlaceholdersInTemplate
-- title: WorkingWithNumbers
-  file: /WorkingWithNumbers
-- title: Triggers
-  file: /Triggers
-- title: Custom Middleware
-  file: /Custom Middleware
-- title: Libman
-  file: /Libman
-- title: gulpFile
-  file: /gulpFile
-- title: Service_Broker
-  file: /Service_Broker
-- title: Datatable
-  file: /Datatable
-- title: GeoSpatialCalculation
-  file: /GeoSpatialCalculation
-- title: viewModel
-  file: /viewModel
-- title: AsymmetricKey
-  file: /AsymmetricKey
-- title: 2FA(asp.net core)
-  file: /2FA
-- title: DbSchema
-  file: /DbSchema
-- title: EntityFramework
-  file: /EntityFramework
-- title: UnitTest
-  file: /UnitTest
-- title: setOperators
-  file: /setOperators
+format: jb-book
+root: intro
+
+parts:
+  - caption: Project Guide
+    chapters:
+      - file: ProjectStructure
+
+  - caption: SQL Server Core
+    chapters:
+      - file: stringFunctions
+      - file: uniqueFunctions
+      - file: UniqueCommands
+      - file: setOperators
+      - file: WorkingWithNumbers
+      - file: Convert
+      - file: Cursor
+      - file: TableType
+      - file: Datatable
+      - file: MergeInto
+      - file: Triggers
+      - file: DbSchema
+      - file: Service_Broker
+      - file: AsymmetricKey
+
+  - caption: Data and JSON Workflows
+    chapters:
+      - file: WorkingWithJson
+      - file: tblVsjson
+      - file: GetDuplicateRows
+      - file: GeoSpatialCalculation
+
+  - caption: ASP.NET and Tooling
+    chapters:
+      - file: Frontend
+      - file: "Custom Middleware"
+      - file: cache
+      - file: DatabaseService
+      - file: viewModel
+      - file: ReplacePlaceholdersInTemplate
+      - file: visualStudioTemplate
+      - file: EntityFramework
+      - file: UnitTest
+      - file: 2FA
+      - file: Libman
+      - file: gulpFile
